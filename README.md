@@ -19,11 +19,7 @@ This repository contains a simple API for user login and logout functionalities.
 - JWT (jsonwebtoken)
 - bcrypt
 
-## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
-
-### Prerequisites
+## Prerequisites
 
 - Node.js
 - MongoDB
